@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごめんね、好きで",
+  "base_artist": "中村さんそ",
+  "createdAt": "2026-02-07T15:03:21.828163Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごめんね、好きで",
+      "artist": "中村さんそ",
+      "has_synced": false,
+      "path": "select/pl_01_ごめんね、好きで_中村さんそ.txt"
+    }
+  ]
+}
